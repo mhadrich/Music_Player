@@ -93,6 +93,7 @@ ul {
 
 .fcc-title,
 .playlist-title {
+  white-space: nowrap;
   color: var(--secondary-color);
   margin: 0 10px;
   font-family: var(--font-headline);
